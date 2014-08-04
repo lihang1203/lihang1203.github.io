@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
+title: This is Me
 ---
 
-Some information about you!
+Developer @ Boston, currently enrolled in Northeastern University
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+Worked in Schlumberger, Cienet, Misys and Blackberry 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lihang1203@gmail.com](mailto:lihang1203@gmail.com)
